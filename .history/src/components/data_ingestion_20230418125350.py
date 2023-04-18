@@ -45,5 +45,4 @@ class DataIngention:
             raise CustomException(e,sys)
         
 if __name__=="__main__":
-    obj=DataIngention()
-    obj.initiate_data_ingestion()
+    obj=
